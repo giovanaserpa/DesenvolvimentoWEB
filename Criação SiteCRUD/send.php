@@ -12,7 +12,7 @@ require 'PHPMailer/src/SMTP.php';
 
 
 $GMAIL_USERNAME = 'miahazin@gmail.com';  
-$GMAIL_APP_PASS = 'flqj vspz fenw zkyx'; 
+$GMAIL_APP_PASS = 'chave google'; 
 $DESTINO        = 'miahazin@gmail.com'; 
 
 
